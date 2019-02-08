@@ -1236,3 +1236,4 @@ function KRF = updateKRF(portfolio,TA,reserves,profitShareReserves)
     KRF = portfolio - (reserves + TA + profitShareReserves);
 end
 
+%test
